@@ -58,7 +58,7 @@
 		<dependency>
 			<groupId>com.google.protobuf</groupId>
 			<artifactId>protobuf-java-util</artifactId>
-			<version>3.8.0</version>
+			<version>3.16.3</version>
 		</dependency>
 		<dependency>
 			<groupId>com.jayway.jsonpath</groupId>
@@ -73,7 +73,7 @@
 		<dependency>
 			<groupId>io.github.lognet</groupId>
 			<artifactId>grpc-spring-boot-starter</artifactId>
-			<version>3.3.0</version>
+			<version>4.5.5</version>
 		</dependency>
 		<dependency>
 			<groupId>io.grpc</groupId>
@@ -94,7 +94,7 @@
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
-			<version>20080701</version>
+			<version>20231013</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
